@@ -1,2 +1,1 @@
-# avsc
-RakSamp Lite snippet
+RakSamp LIte snippet
